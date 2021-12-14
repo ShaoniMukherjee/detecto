@@ -9,7 +9,7 @@ Inference on still images and videos, transfer learning on custom datasets, and 
 Detecto is also built on top of PyTorch, allowing an easy transfer of models between the two libraries.
 
 The table below shows a few examples of Detecto's performance:   
-
+Installation required:-
 Still Image                                                                   |  Video
 :----------------------------------------------------------------------------:|:-----------------------------------------:
 <img src="./assets/apple_orange.png" alt="Detecto still image" width="500px"> | ![Video demo of Detecto](assets/demo.gif)
